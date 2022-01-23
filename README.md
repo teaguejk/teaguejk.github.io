@@ -1,2 +1,2 @@
-# jaracahteague.github.io
+# teaguejk.github.io
 My personal website
