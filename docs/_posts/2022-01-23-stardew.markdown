@@ -4,3 +4,4 @@ title:  "Stardew Valley Wiki"
 date:   2022-01-23 02:40:46 -0500
 categories: jekyll update
 ---
+This project started as a documentation writing excersise for Technical Writing. I decided to pick one of my favorite video games, Stardew Valley, and create a static wiki site that goes over some of the basics of the game. It is currently a static site but I would like to keep working on it by adding more content, and possibly swtiching to Javascript, HTML, and CSS. [Here is the link to the site!](https://teaguejk.github.io/stardew_valley/)
