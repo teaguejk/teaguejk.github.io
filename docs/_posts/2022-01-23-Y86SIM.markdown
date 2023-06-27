@@ -5,4 +5,4 @@ date:   2022-01-23 02:40:46 -0500
 categories: jekyll update
 ---
 This was a project for Computer Systems I at Appalachian State. 
-This project was a really valuable learning experience for me and is something that I am very proud to have completed. The idea was to simulate a CPU behavior of executing Y86 machine code in a pipelined manner, rather than sequentially. Requiring knowledge in CPU architecture, machine level code, C++, debugging, and memory. We worked in pairs to implement this project over the course of a semester and was also a valuable teamwork experience. The code can be found on my GitHub.
+This project was one of the most valuable learning experiences for me and is something that I am very proud of. The idea was to simulate the CPU behavior of executing Y86 machine code in a pipelined manner, rather than sequentially. Requiring knowledge of the Y86 architecture, machine level code, C++, debugging, and memory management. We worked in pairs to implement this project over the course of a semester and was also a valuable teamwork experience. The code can be found on my GitHub.
