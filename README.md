@@ -1,2 +1,3 @@
 # teaguejk.github.io
-My personal website
+
+A website for me to document my journey in Software Engineering
