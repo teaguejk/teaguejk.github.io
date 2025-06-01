@@ -28,7 +28,13 @@ Database: PostgreSQL
 
 ## Current Status
 
-The app is past my first POC stage with multiple key features in place, like: CRUD management of recipes, user profile and management, calendar based meal planning, and a recipe-backed shopping list.
+The app is past my first POC stage with multiple key features in place, like
+
+- CRUD management of recipes
+- user profile and management
+- calendar based meal planning
+- shopping list integrated with recipes
+- importing recipes from other sites using scraping
 
 The code is private for now, but I'm happy to show the live version or talk through specific technical decisions if there is interest.
 It's been a good reminder that the best way to learn new tech is to build something you'll actually use. Plus, my girlfriend is happy with the organized recipes, so that's a win.
