@@ -9,12 +9,24 @@ As a side project and at my girlfriends request, I have started writing a full s
 
 ## The Stack
 
-Front End: ReactJS w/ Chakra UI
+### Front End
+
+#### Web App
+
+Language: ReactJS w/ Chakra UI
 
 - React is industry standard and with Chakra I can move quickly and focus more on features
 - Skills learned here are transferrable to other web frameworks
 
-API: Golang
+#### Mobile App (IOS)
+
+Language: Swift
+
+- Quick and easy, native IOS development
+
+### API
+
+Language: Golang
 
 - Using mostly standard libraries
 - Using a layered approach for separation of concerns and maintainability
