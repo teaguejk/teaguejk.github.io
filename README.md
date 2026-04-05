@@ -1,3 +1,6 @@
 # teaguejk.github.io
 
-A website for me to document my journey in Software Engineering
+My website
+
+- **URL:** [jararacah.dev](https://jararacah.dev)
+- **Repo:** [teaguejk/portfolio](https://github.com/teaguejk/portfolio)
